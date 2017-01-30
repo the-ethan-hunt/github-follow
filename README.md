@@ -3,12 +3,17 @@ A rails project with GitHub OAuth to notify you about new followers / unfollower
 ## Gems required 
 1. rails 1.2.5
 2. mysql2
-..*Version varying from 0.3.13 to 0.5 will be working for the project.
+..* Version varying from 0.3.13 to 0.5 will be working for the project.
 3. pg
 4. sass-rails
-..*Versions after 5.0 work the best!
+..* Versions after 5.0 work the best!
 5. uglifier
 ..* Versions after 1.3.0 are required.
 6. nokogiri 
 ..* Versions after 1.6.7.2
 7. mechanize 2.7.5
+8. jquery-datatables-rails 
+..* Versions after3.4
+9. will_paginate 3.1
+10. will_paginate-bootstrap 1.0
+11.
